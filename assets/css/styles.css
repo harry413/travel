@@ -449,7 +449,7 @@ img {
 }
 .explore__perfil {
   width: 30px;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 .explore__name {
   font-size: var(--small-font-size);
